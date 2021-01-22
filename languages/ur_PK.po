@@ -1,0 +1,87 @@
+# Copyright (C) 2016 Tipu Scroll To Top
+# This file is distributed under the same license as the Tipu Scroll To Top package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tipu Scroll To Top 2.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tipu-scroll-to-"
+"top\n"
+"POT-Creation-Date: 2016-02-20 00:09+0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-02-20 00:15+0500\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.6\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ur_PK\n"
+
+#: settings-class.php:23 settings-class.php:24
+msgid "Scroll to Top"
+msgstr "طومار اوپر"
+
+#. Plugin Name of the plugin/theme
+#: settings-form.php:2
+msgid "Tipu Scroll To Top"
+msgstr "ٹیپو سکرال اوپر"
+
+#: settings-form.php:22
+msgid "Button Appearance"
+msgstr "بٹن ظہور"
+
+#: settings-form.php:25
+msgid "Width"
+msgstr "چوڑائی:"
+
+#: settings-form.php:30
+msgid "Height"
+msgstr "اونچائی"
+
+#: settings-form.php:35
+msgid "Background Color"
+msgstr "پس منظری رنگ"
+
+#: settings-form.php:39
+msgid "Background Hover Color"
+msgstr "پس منظری ہوور رنگ"
+
+#: settings-form.php:43
+msgid "Border Radius"
+msgstr "بارڈر رداس"
+
+#: settings-form.php:48
+msgid "Choose Button"
+msgstr "بٹن کا انتخاب کریں"
+
+#: settings-form.php:74
+msgid "Button Color"
+msgstr "بٹن رنگ"
+
+#: settings-form.php:78
+msgid "Button Hover Color"
+msgstr "بٹن ہو ور رنگ "
+
+#: settings-form.php:82
+msgid "Save settings"
+msgstr "سیٹنگیں محفوظ کریں"
+
+#: settings-form.php:86
+msgid "Thank you for using my plugin"
+msgstr "میں آپ کا بہت شکر گزار ہوں کہ آپ نے میرا پلگ ان استعمال کیا۔"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.abulogics.com/WordPress/plugins/tipu-scroll-to-top"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This Plugin adds a scroll to top button in your site"
+msgstr ""
+"یہ پلگ ان ایک طومار آپ کی ویب سائٹ میں سب سے اوپر کے بٹن کا اضافہ کرتا ہے"
+
+#. Author of the plugin/theme
+msgid "Zubair Mushtaq"
+msgstr "زبیر مشتاق"
+
+#. Author URI of the plugin/theme
+msgid "http://www.abulogics.com/"
+msgstr ""
